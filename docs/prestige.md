@@ -12,7 +12,7 @@ prestige is one of the most important features of various incremental games, usu
 
 sacrifice requires 1 S8 S dimension that costs 1.845e19 (or 2<sup>64</sup>) S.
 
-when you perform a sacrifice, all S1-S7 S dimensions are taken away, and a boost of `log<sub>8</sub>n` (where n is the amount of S on sacrifice) is provided to the S8 dimension.
+when you perform a sacrifice, all S1-S7 S dimensions are taken away, and a boost of log<sub>8</sub>n (where n is the amount of S on sacrifice) is provided to the S8 dimension.
 
 ## grand gravity
 
